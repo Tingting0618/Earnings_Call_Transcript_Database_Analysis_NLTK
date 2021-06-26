@@ -8,7 +8,14 @@ These transcripts provide invaluable insights. However, it is quite challenging 
 
 The goal of this project is to make earnings call analysis easy and save time for our users. 
 
-### Step 1: Downloading all transcripts from a company's Investor Relations page using Python
+## Demo
+
+**Function 1: Get Words Frenquency by Choosing A Company and Year**
+
+![count](https://user-images.githubusercontent.com/44503223/123526036-dd3cf780-d69a-11eb-9552-38237dcf9560.gif)
+
+
+### Data source: Downloading all transcripts from a company's Investor Relations page using Python
 
 Firstly, we have collected the earnings call transcript pdf links on companies' official websites. 
 
@@ -22,35 +29,10 @@ The final data structure looks like this... Each row will have one quarter's ear
 
 ![final df](https://user-images.githubusercontent.com/44503223/123524144-f1c6c300-d68d-11eb-9c8c-e6bda286ed6d.png)
 
-### Step 2: Text Analysis
-
-
-### Methods used
-
-0) 
 
 ### Technologies used
 
-Python (scikit-learn, NLTK, pandas)
-
-### Data source
-
-placeholder
-
-### Demo/details
-
-**Data preview:**
-
-placeholder
-
-**Demo:**
-
-placeholder
-
-**Understand the black box:**
-
-placeholder
-
+Python (request, NLTK, pandas, ipywidgets, pdfplumber)
 
 
 ## Learn More

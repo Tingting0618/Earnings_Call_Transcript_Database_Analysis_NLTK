@@ -14,12 +14,12 @@ The goal of this project is to make earnings call analysis easy and save time fo
 
 ![count](https://user-images.githubusercontent.com/44503223/123526036-dd3cf780-d69a-11eb-9552-38237dcf9560.gif)
 
-**Function 2: Function 2: Followed by interesting keyword counts in the previous step, now we will pull sentences from the earnings call transcript to understand more context.**
+**Function 2: Followed by interesting keyword counts in the previous step, now we will pull sentences from the earnings call transcript to understand more context.**
 
 ![recovery](https://user-images.githubusercontent.com/44503223/123526346-dc0cca00-d69c-11eb-9d66-b9d3d5fe4064.gif)
 
 
-### Data source: Downloading all transcripts from a company's Investor Relations page using Python
+## Data source: Downloading all transcripts from a company's Investor Relations page using Python
 
 Firstly, we have collected the earnings call transcript pdf links on companies' official websites. 
 
@@ -34,7 +34,7 @@ The final data structure looks like this... Each row will have one quarter's ear
 ![final df](https://user-images.githubusercontent.com/44503223/123524144-f1c6c300-d68d-11eb-9c8c-e6bda286ed6d.png)
 
 
-### Technologies used
+## Technologies used
 
 Python (request, NLTK, pandas, ipywidgets, pdfplumber)
 

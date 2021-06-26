@@ -2,9 +2,9 @@
 
 ## The goal/inspiration
 
-During an earnings call, a public company's executives discuss the company's financial results and future projections with analysts, investors, and the media. 
+Nick and Jack, the hosts of Robinhood Snacks Daily, often talk about how many times a certain word is mentioned during a company's earnings call. For example, "Mirrors" appeared 40 times while "Lululemon" was only mentioned 25 times by the executive team, indicating Mirrors is the focus of investors and long-term strategy for customer engagement. 
 
-These transcripts provide invaluable insights. However, it is quite challenging to extract valuable information from these transcripts, conduct analysis, compare transcripts from multiple companies, and observe future trends.
+These earnings call transcripts provide invaluable insights. However, it is quite challenging to extract valuable information from these transcripts, conduct analysis, compare transcripts from multiple companies, and observe future trends.
 
 The goal of this project is to make earnings call analysis easy and save time for our users. 
 

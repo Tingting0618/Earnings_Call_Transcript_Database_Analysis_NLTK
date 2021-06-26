@@ -14,7 +14,7 @@ The goal of this project is to make earnings call analysis easy and save time fo
 
 ![count](https://user-images.githubusercontent.com/44503223/123526036-dd3cf780-d69a-11eb-9552-38237dcf9560.gif)
 
-**Function 2: Followed by interesting key word counts in the previous step, now we are going to easily pull sentences from the earnings call transcript**
+**Function 2: Function 2: Followed by interesting keyword counts in the previous step, now we will pull sentences from the earnings call transcript to understand more context.**
 
 ![recovery](https://user-images.githubusercontent.com/44503223/123526346-dc0cca00-d69c-11eb-9d66-b9d3d5fe4064.gif)
 

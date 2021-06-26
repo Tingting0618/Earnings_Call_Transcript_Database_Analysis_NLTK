@@ -10,7 +10,7 @@ Firstly, we have collected the earnings call transcript pdf links on companies' 
 
 ![URLS](https://user-images.githubusercontent.com/44503223/123524021-4c135400-d68d-11eb-9674-7fa6e074fd28.png)
 
-Then, we saved each file as PDF, and also consolidate all PDFs' text in a .pkl file. 
+Then, we downloaded and saved each file as PDF, and consolidate all PDFs into a .pkl file. 
 
 ![pkl](https://user-images.githubusercontent.com/44503223/123524101-ab716400-d68d-11eb-8cca-010352b3a66c.png)
 

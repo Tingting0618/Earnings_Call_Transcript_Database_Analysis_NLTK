@@ -1,4 +1,4 @@
-# Earnings Call Transcript Database And Analysis with Natural Language Toolkit in Python
+# Earnings Call Transcript Database and Analysis with NLTK in Python
 
 ## The goal/inspiration
 

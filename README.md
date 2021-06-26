@@ -2,7 +2,11 @@
 
 ## The goal/inspiration
 
-In the project, 
+During an earnings call, a public company's executives discuss the company's financial results and future projections with analysts, investors, and the media. 
+
+These transcripts provide invaluable insights. However, it is quite challenging to extract valuable information from these transcripts, conduct analysis, compare transcripts from multiple companies, and observe future trends.
+
+The goal of this project is to make earnings call analysis easy and save time for our users. 
 
 ### Step 1: Downloading all transcripts from a company's Investor Relations page using Python
 

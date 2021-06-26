@@ -19,7 +19,9 @@ The goal of this project is to make earnings call analysis easy and save time fo
 ![recovery](https://user-images.githubusercontent.com/44503223/123526346-dc0cca00-d69c-11eb-9d66-b9d3d5fe4064.gif)
 
 
-## Data source: Transcripts downloaded from a company's Investor Relations page using Python
+## Data source
+
+#### Transcripts downloaded from a company's Investor Relations page using Python
 
 Firstly, we have collected the earnings call transcript pdf links on companies' official websites. 
 

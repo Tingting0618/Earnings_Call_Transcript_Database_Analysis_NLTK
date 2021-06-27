@@ -10,7 +10,7 @@ The goal of this project is to make earnings call analysis easy and save time fo
 
 ## Demo
 
-**Function 1: Get Words Frenquency by Choosing A Company and Year**
+**Function 1: Get Words Frequency by Choosing A Company and Year**
 
 ![count](https://user-images.githubusercontent.com/44503223/123526036-dd3cf780-d69a-11eb-9552-38237dcf9560.gif)
 
@@ -62,5 +62,5 @@ Python (request, NLTK, pandas, ipywidgets, pdfplumber)
 
 ## Learn More
 
-You can learn more in the [Tingting Duan's Project Portfolio](https://tingting0618.github.io).
+You can learn more in [Tingting Duan's Project Portfolio](https://tingting0618.github.io).
 

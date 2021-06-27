@@ -34,7 +34,7 @@ Screenshot of some sentences' sentiment scores:
 
 The overall sentiment score distribution:
 
-![overall](https://user-images.githubusercontent.com/44503223/123529430-c48e0b00-d6b5-11eb-84be-04ac22022fea.png)
+![overall](https://user-images.githubusercontent.com/44503223/123529720-b4c3f600-d6b8-11eb-92d1-8fd6f580a344.png)
 
 Overall, the company executives have a very positive view of recovery and potential performance rebounce. 
 

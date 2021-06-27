@@ -18,9 +18,9 @@ The goal of this project is to make earnings call analysis easy and save time fo
 
 ![recovery](https://user-images.githubusercontent.com/44503223/123526346-dc0cca00-d69c-11eb-9d66-b9d3d5fe4064.gif)
 
-**Function 3: The Word Trends. 
+**Function 3: The Word Trends.**
 
-Due to Covid-19, the hospitality industry was hit hard. The keyword in 2020 is "recovery". 
+Due to Covid-19, the hospitality industry was hit hard. The keyword in 2020 is "recovery". China was mentioned 86 times by the Marriott executive team and analysts in 2020's earnings call. 
 
 ![record](https://user-images.githubusercontent.com/44503223/123528921-3748b780-d6b1-11eb-918a-1d37eb40bf6c.gif)
 

@@ -24,6 +24,11 @@ Due to Covid-19, the hospitality industry was hit hard. The keyword in 2020 is "
 
 ![record](https://user-images.githubusercontent.com/44503223/123528921-3748b780-d6b1-11eb-918a-1d37eb40bf6c.gif)
 
+**Function 4: The Sentiment**
+
+Based on previous analyses, recovery is the focus of 2020. Next, we are going to explore the sentiment related to recovery. Two possible scenarios: 1) people may think the recovery will be slow and the situation will be unstable, or 2) people have a positive view of the future due to the fast recovery in China once Covid-19 is under control.   
+
+![Sentiment](https://user-images.githubusercontent.com/44503223/123529363-079bae80-d6b5-11eb-92bd-aa1215c607ea.png)
 
 ## Data source
 
@@ -40,6 +45,11 @@ Then, we downloaded and saved each file as PDF, and consolidate all PDFs into a 
 The final data structure looks like this... Each row will have one quarter's earnings call transcript from one company.  
 
 ![final df](https://user-images.githubusercontent.com/44503223/123524144-f1c6c300-d68d-11eb-9c8c-e6bda286ed6d.png)
+
+Overall, the company executives have a very positive view of recovery and potential performance rebounce. 
+
+![overall](https://user-images.githubusercontent.com/44503223/123529430-c48e0b00-d6b5-11eb-84be-04ac22022fea.png)
+
 
 
 ## Technologies used
